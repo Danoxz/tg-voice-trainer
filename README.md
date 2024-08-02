@@ -18,7 +18,7 @@ Script deletes voices less than 15 seconds long from private messages, with auto
     WHITELIST=123456789,987654321
     ```
 
-    Get `API_ID` and `API_HASH` on [my.telegram.org](my.telegram.org)
+    Get `API_ID` and `API_HASH` on [my.telegram.org](https://my.telegram.org)
 
 3. **Run:**
    ```bash
