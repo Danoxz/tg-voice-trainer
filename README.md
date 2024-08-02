@@ -1,10 +1,8 @@
 # TG Voice Trainer
 
-## Overview
-
 Script deletes voices less than 15 seconds long from private messages, with auto-reply
 
-## Get started
+### Get started
 
 1. **Preparig:**
     ```bash
