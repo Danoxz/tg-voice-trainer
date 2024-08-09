@@ -1,6 +1,7 @@
 # TG Voice Trainer
 
 Script deletes voices less than 15 seconds long from private messages, with auto-reply
+
 Supports user whitelists 
 
 ### Get started
